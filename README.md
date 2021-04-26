@@ -1,5 +1,5 @@
 # Instal
-$ git clone https://github.com/Mark-Zuck/bff-2 <br>
+$ git clone https://github.com/Mark-Zuck/bff <br>
 $ cd bff <br>
 $ python2 bff.py
 #
