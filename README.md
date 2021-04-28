@@ -1,4 +1,4 @@
-# Instal
+## Installation
 $ pkg update && pkg upgrade <br>
 $ pkg install python2 <br>
 $ pip2 install requests <br>
