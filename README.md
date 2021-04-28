@@ -1,3 +1,6 @@
+````
+Coded by : Romi Afrizal
+````
 ## Installation
 $ pkg update && pkg upgrade <br>
 $ pkg install python2 <br>
