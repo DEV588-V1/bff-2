@@ -10,7 +10,7 @@ $ pip2 install mechanize <br>
 $ pkg install git <br>
 $ git clone https://github.com/Mark-Zuck/bff-2 <br>
 $ cd bff-2 <br>
-$ python2 bff.py
+$ python2 bff-2.py
 #
 #### Want to recode? Permit first. Appreciate the maker bro!
 #
