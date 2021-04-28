@@ -12,6 +12,8 @@ $ git clone https://github.com/Mark-Zuck/bff-2 <br>
 $ cd bff-2 <br>
 $ python2 bff.py
 #
+If you want to log into Termux you are required to use a backup account. I am not responsible if something happens to your account. And one more thing, use this script wisely!
+#
 <img src="https://github.com/Mark-Zuck/bff-2/blob/main/rom/20210426_092630.jpg" width="640" title="Menu" alt="Menu">
 
 #
